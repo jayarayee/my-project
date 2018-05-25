@@ -10,7 +10,7 @@ export class ServersComponent implements OnInit {
 
   allowNewServer = false;
   serverCreationStatus = 'No server was created!';
-  serverName ='TestServer ' ;
+  serverName ='TestServer' ;
   serverCreated = false;
   servers = ['Testserver', 'TestServer 2']
 
